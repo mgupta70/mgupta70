@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mgupta70
 - 👀 I’m interested in solving real problems using AI.
-- 🌱 I’m currently learning activity recognition
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me? -> send me an email at mgupta70@asu.edu
 
 <!---
